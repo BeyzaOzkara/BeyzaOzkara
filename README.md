@@ -51,7 +51,7 @@ I specialize in **Python (Django), ERP systems, database design, and automation*
 ---
 
 ## 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/beyza-nur-özkara-20979b155)  
+- 💼 [LinkedIn](https://www.linkedin.com/beyza-nur-ozkara)  
 - 🐙 [GitHub](https://github.com/BeyzaOzkara)  
 
 ---
